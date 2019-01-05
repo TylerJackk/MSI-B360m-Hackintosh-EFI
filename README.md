@@ -18,3 +18,13 @@ Hackintosh EFI
 * VideoProc
 * Intel FB-Patcher
 * MaciASL
+
+
+***
+![benchmark](https://github.com/TylerJackk/MSI-B360m-10.14.2-EFI/blob/master/images/benchmark.png)
+
+![info](https://github.com/TylerJackk/MSI-B360m-10.14.2-EFI/blob/master/images/info.png)
+
+![graphics_info](https://github.com/TylerJackk/MSI-B360m-10.14.2-EFI/blob/master/images/graphics_info.png)
+
+![graphics](https://github.com/TylerJackk/MSI-B360m-10.14.2-EFI/blob/master/images/graphics.png)
